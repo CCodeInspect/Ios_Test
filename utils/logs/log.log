@@ -72,3 +72,23 @@
 [2024-07-04 13:50:26] [INFO] [app.py]/[line: 48]/[goto_main] 正在登录 
 [2024-07-04 13:50:26] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
 [2024-07-04 13:50:26] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 
+[2024-07-04 14:03:59] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:04:34] [INFO] [app.py]/[line: 48]/[goto_main] 正在登录 
+[2024-07-04 14:04:34] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
+[2024-07-04 14:04:34] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 
+[2024-07-04 14:05:45] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:06:41] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:07:24] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:10:40] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:10:50] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:14:09] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:17:08] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:19:01] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:24:23] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:24:47] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:26:37] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:32:15] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:34:05] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 14:34:37] [INFO] [app.py]/[line: 57]/[goto_main] 正在登录 
+[2024-07-04 14:34:37] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
+[2024-07-04 14:34:37] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 

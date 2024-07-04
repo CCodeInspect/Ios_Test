@@ -21,6 +21,15 @@ class App(BasePage):
             "appium:showXcodeLog": True,
             "appium:deviceName": "Phone 15"
         }
+        # capabilities = {
+        #     "platformName": "iOS",
+        #     "appium:automationName": "xcuitest",
+        #     "appium:bundleId": "com.11zhihu.aaa",
+        #     "appium:udid": "00008101-001248DC22E0001E",
+        #     "appium:showXcodeLog": True,
+        #     "appium:deviceName": "iPhone 12 mini",
+        #     "platformVersion": "17.5.1"
+        # }
 
         appium_server_url = "http://127.0.0.1:4723"
         # 因为当前我只安装了appium server
