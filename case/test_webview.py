@@ -28,7 +28,7 @@ class TestBrowser:
             "appium:bundleId": "com.11zhihu.aaa",
             "appium:udid": "8FE759FA-1D0C-4064-9126-751531CB0BAB",
             "appium:showXcodeLog": True,
-            "appium:deviceName": "Phone 15"
+            "appium:deviceName": "iPhone 15"
         }
 
         appium_server_url = "http://127.0.0.1:4723"
@@ -45,7 +45,7 @@ class TestBrowser:
     def test_browser(self):
         self.driver.get("http://m.baidu.com")
         sleep(5)
-        search_lo = (AppiumBy.XPATH, '//*[@id="index-kw"]')
+        search_lo = (AppiumBy.XPATH, '//label')
         WebDriverWait(self.driver, 10).until(expected_conditions.element_to_be_clickable(search_lo))
 
         ele = self.driver.find_element(*search_lo)
