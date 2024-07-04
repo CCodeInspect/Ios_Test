@@ -1,0 +1,3 @@
+[32mINFO    [0m utils.logger:app.py:48 正在登录
+[32mINFO    [0m utils.logger:test_uicatelog.py:25 开始执行测试case
+[32mINFO    [0m utils.logger:homepage.py:15 查找activity indicators是否存在
