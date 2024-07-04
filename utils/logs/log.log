@@ -68,3 +68,7 @@
 [2024-07-04 13:49:06] [INFO] [app.py]/[line: 48]/[goto_main] 正在登录 
 [2024-07-04 13:49:06] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
 [2024-07-04 13:49:06] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 
+[2024-07-04 13:50:24] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-04 13:50:26] [INFO] [app.py]/[line: 48]/[goto_main] 正在登录 
+[2024-07-04 13:50:26] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
+[2024-07-04 13:50:26] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 
