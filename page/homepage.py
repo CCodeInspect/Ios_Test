@@ -3,12 +3,12 @@
 # @Date: 2024/7/4
 from appium.webdriver.common.appiumby import AppiumBy
 
-from base.app import TestApp
+from base.app import App
 from page.activityIndicatorsPage import ActivityIndicatorsPage
 from utils.logger import logger
 
 
-class HomePage(TestApp):
+class HomePage(App):
     _Activity_indicators = (AppiumBy.IOS_PREDICATE, 'name == "Activity Indicators"')
 
     def find_activity_indicators(self):

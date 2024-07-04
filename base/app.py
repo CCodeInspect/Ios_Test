@@ -8,10 +8,11 @@ from base.basePage import BasePage
 from utils.logger import logger
 
 
-class TestApp(BasePage):
+class App(BasePage):
     def start(self):
         # 第一次初始化app
         # if self.driver == None:
+        print("此时driver为None: ", self.driver)
         capabilities = {
             "platformName": "iOS",
             "appium:automationName": "XCUITest",
@@ -34,7 +35,7 @@ class TestApp(BasePage):
         # else:
         #     # 直接启动app，节省启动app时间
         #     self.driver.activate_app(app_id="com.xueqiu.android")
-
+        print("此时driver是个对象并且拿到了: ", self.driver)
         return self
 
     def restart(self):

@@ -3,12 +3,12 @@
 # @Date: 2024/7/4
 from appium.webdriver.common.appiumby import AppiumBy
 
-from base.app import TestApp
+from base.app import App
 from page.search import Search
 from utils.logger import logger
 
 
-class ActivityIndicatorsPage(TestApp):
+class ActivityIndicatorsPage(App):
     _Activity_Indicator = (AppiumBy.IOS_PREDICATE, 'name == "Activity Indicators"')
     _Default = (AppiumBy.IOS_PREDICATE, 'name == "DEFAULT" AND label == "DEFAULT"')
     _Back = (

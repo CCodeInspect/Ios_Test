@@ -3,11 +3,11 @@
 # @Date: 2024/7/4
 from appium.webdriver.common.appiumby import AppiumBy
 
-from base.app import TestApp
+from base.app import App
 from utils.logger import logger
 
 
-class Search(TestApp):
+class Search(App):
     _SEARCH = (AppiumBy.IOS_PREDICATE, '//XCUIElementTypeStaticText[@name="Search"]')
     _DEFAULT = (AppiumBy.IOS_PREDICATE, 'name == "Default"')
     _TEXT = (AppiumBy.IOS_PREDICATE, 'type == "XCUIElementTypeSearchField"')

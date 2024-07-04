@@ -8,9 +8,6 @@ class BasePage:
     def __init__(self, driver: WebDriver = None):
         self.driver = driver
 
-    def back_to_previous(self):
-        pass
-
     def find(self, by, locator):
         return self.driver.find_element(by, locator)
 
