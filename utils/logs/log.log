@@ -92,3 +92,29 @@
 [2024-07-04 14:34:37] [INFO] [app.py]/[line: 57]/[goto_main] 正在登录 
 [2024-07-04 14:34:37] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
 [2024-07-04 14:34:37] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 
+[2024-07-07 22:28:25] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:29:03] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:30:31] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:31:46] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:33:09] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:33:19] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:33:53] [INFO] [app.py]/[line: 57]/[goto_main] 正在登录 
+[2024-07-07 22:33:53] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
+[2024-07-07 22:33:53] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 
+[2024-07-07 22:35:26] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:35:28] [INFO] [app.py]/[line: 57]/[goto_main] 正在登录 
+[2024-07-07 22:35:28] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
+[2024-07-07 22:35:28] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 
+[2024-07-07 22:35:29] [INFO] [activityIndicatorsPage.py]/[line: 24]/[back_to_previous] 返回上一级 
+[2024-07-07 22:37:53] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:37:55] [INFO] [app.py]/[line: 57]/[goto_main] 正在登录 
+[2024-07-07 22:38:16] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:38:18] [INFO] [app.py]/[line: 57]/[goto_main] 正在登录 
+[2024-07-07 22:38:18] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
+[2024-07-07 22:38:18] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 
+[2024-07-07 22:38:19] [INFO] [activityIndicatorsPage.py]/[line: 24]/[back_to_previous] 返回上一级 
+[2024-07-07 22:42:21] [INFO] [get_data_yaml.py]/[line: 11]/[get_data_yaml] 获取数据中 
+[2024-07-07 22:42:23] [INFO] [app.py]/[line: 57]/[goto_main] 正在登录 
+[2024-07-07 22:42:23] [INFO] [test_uicatelog.py]/[line: 25]/[test_uicatelog] 开始执行测试case 
+[2024-07-07 22:42:23] [INFO] [homepage.py]/[line: 15]/[find_activity_indicators] 查找activity indicators是否存在 
+[2024-07-07 22:42:23] [INFO] [activityIndicatorsPage.py]/[line: 22]/[back_to_previous] 返回上一级 

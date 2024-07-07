@@ -11,9 +11,7 @@ from utils.logger import logger
 class ActivityIndicatorsPage(App):
     _Activity_Indicator = (AppiumBy.IOS_PREDICATE, 'name == "Activity Indicators"')
     _Default = (AppiumBy.IOS_PREDICATE, 'name == "DEFAULT" AND label == "DEFAULT"')
-    _Back = (
-        AppiumBy.IOS_PREDICATE,
-        'name == "UIKitCatalog" AND label == "UIKitCatalog" AND type == "XCUIElementTypeButton"')
+    _Back = (AppiumBy.IOS_PREDICATE, 'name == "GRAY" AND label == "GRAY"')
 
     def click_activity_indicators(self):
         logger.info("点击activity indicators")
@@ -23,4 +21,5 @@ class ActivityIndicatorsPage(App):
     def back_to_previous(self):
         logger.info("返回上一级")
         self.find_and_click(*self._Back)
-        return Search()
+        from page.homepage import HomePage
+        return HomePage()

@@ -23,6 +23,6 @@ class TestUiCatelog:
     @ui_screenshot_and_pagesource(on_success=True)
     def test_uicatelog(self, text):
         logger.info('开始执行测试case')
-        self.main.find_activity_indicators()
-        # .back_to_previous().click_search().click_default().send_text(text)
+        self.main.find_activity_indicators().back_to_previous()
+       # .click_search().click_default().send_text(text)
         # assert res == '123'

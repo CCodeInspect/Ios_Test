@@ -19,7 +19,7 @@ class App(BasePage):
             "appium:bundleId": "com.11zhihu.aaa",
             "appium:udid": "8FE759FA-1D0C-4064-9126-751531CB0BAB",
             "appium:showXcodeLog": True,
-            "appium:deviceName": "Phone 15"
+            "appium:deviceName": "iPhone 15"
         }
         # capabilities = {
         #     "platformName": "iOS",
