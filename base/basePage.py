@@ -19,7 +19,7 @@ class BasePage:
                 # 查找黑名单中的每一个元素
                 eles = self.driver.find_elements(*black)
                 if len(eles) > 0:
-                    return self.find_and_send(by, locator)
+                    return self.find(by, locator)
             raise e
 
     def find_and_click(self, by, locator):
